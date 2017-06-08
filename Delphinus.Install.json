@@ -1,0 +1,37 @@
+{
+  "browsing_pathes": [{
+    "pathes": ".",
+    "platforms": "Win32;Win64"
+  }],
+  "source_folders": [{
+    "folder": "."
+  },
+  {
+    "folder": "CPP Builder Support",
+    "recursive": true
+  },
+  {
+    "folder": "Demos",
+    "recursive": true
+  },
+  {
+    "folder": "FullDebugMode DLL",
+    "recursive": true
+  },
+  {
+    "folder": "Packages",
+    "recursive": true
+  },
+  {
+    "folder": "Replacement BorlndMM DLL",
+    "recursive": true
+  },
+  {
+    "folder": "Translations",
+    "recursive": true
+  }],
+  "projects": [{
+    "project": "Packages\\Delphi 10.2\\FastMM4.dproj",
+    "compiler": 32
+  }]
+}
