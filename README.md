@@ -48,3 +48,6 @@ Usage:
   *The EditBin tool ships with the MS Visual C compiler.
  C++ Builder:
   Refer to the instructions inside FastMM4BCB.cpp.
+
+Miscellaneous
+You can install [Delphinus package manager](https://github.com/Memnarch/Delphinus/wiki/Installing-Delphinus) and then install FastMM4 as a package there. (Delphinus-Support)
